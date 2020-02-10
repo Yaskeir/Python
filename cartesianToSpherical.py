@@ -1,6 +1,6 @@
 import math
 
-#start with the cartesian input
+# start with the cartesian input
 
 print("Please provide the x, y and z coordinates:")
 
@@ -8,7 +8,7 @@ cartesianX = float(input("x: "))
 cartesianY = float(input("y: "))
 cartesianZ = float(input("z: "))
 
-#define two separate recalculation functions so that they can be re-used in other code
+# define two separate recalculation functions so that they can be re-used in other code
 
 def cartesianToSpherical(x, y, z):
     #calculate distance from the origin
