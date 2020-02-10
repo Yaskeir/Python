@@ -1,7 +1,7 @@
-#Perfect numbers
-#Checks whether a given natural number is perfect
-#That is, if it is equal to the sum of all of its 
-#divisors, excluding itself
+# Perfect numbers
+# Checks whether a given natural number is perfect
+# That is, if it is equal to the sum of all of its 
+# divisors, excluding itself
 
 def perfectNumber():
     sum = 0
