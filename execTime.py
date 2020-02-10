@@ -1,4 +1,4 @@
-#Mateusz Fido
+# Mateusz Fido
 
 import os, timeit
 from fibonacci import exec_time
