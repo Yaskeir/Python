@@ -1,4 +1,5 @@
-#Mateusz Fido
+# Mateusz Fido
+
 import random
 
 def minMax(seq):
