@@ -1,5 +1,5 @@
-#Mateusz Fido
-#Hydrogen Spectral Series Calculator
+# Mateusz Fido
+# Hydrogen Spectral Series Calculator
 
 def spectralSeries(n1, n2, Z):
     """Calculates the spectral series for hydrogen-like atoms, 
