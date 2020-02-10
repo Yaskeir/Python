@@ -1,7 +1,7 @@
-#Catalan numbers
+# Catalan numbers
 
-#Works for any number of Catalan terms, 
-#But constrained to numbers below 1 million
+# Works for any number of Catalan terms, 
+# But constrained to numbers below 1 million
 
 def catalanNumbers(n):
     #create placeholder variables for a list of numbers, 
