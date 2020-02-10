@@ -36,7 +36,6 @@ for i in range(N):
     elif choice2 == 1:
         kitty2.hate(toy)
 
-
 kitty.greeting()
 kitty.listLiked()
 kitty.listHated()
