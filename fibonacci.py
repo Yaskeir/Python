@@ -1,4 +1,5 @@
-#Mateusz Fido
+# Mateusz Fido
+
 import timeit
 from functools import lru_cache
 
