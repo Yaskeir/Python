@@ -64,7 +64,7 @@ class Cat:
   def hoard(self, toy):
     self.hoardedToys.add(toy)
 
-# Testing the class
+# Testing the class 
 if __name__ == "__main__": # current interpreted file
   Cat = Cat("Maurycy")
   Cat.like("Mouse")
